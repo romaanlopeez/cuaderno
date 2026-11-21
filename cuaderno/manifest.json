@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Cuaderno técnico",
+  "short_name": "Cuaderno",
+  "description": "Base de conocimiento culinario: notas, proporciones, técnicas y variaciones. Tus datos se guardan solo en tu dispositivo.",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "categories": ["food", "productivity", "lifestyle"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
